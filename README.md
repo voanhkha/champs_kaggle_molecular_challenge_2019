@@ -1,5 +1,4 @@
 # champs_kaggle_molecular_challenge_kaggle_2019
-
 The sample code of the team rank 10/1874 [Kha | Zidmie | Josh | Kyle | Akira] in the "Predicting Molecular Properties 2019" competition on Kaggle.
 
 For more information, see
