@@ -10,4 +10,7 @@ For more information, see
 The main successful methods during the competition:
 1. Feature permutation importance, which worked well with handcrafted features used in tree-based models.
 2. SchNet for molecular data, which is an end-to-end graph architecture.
-The training and predicting scripts require a sample dataset for 1 coupling type (1JHN), which can be found [here](https://drive.google.com/drive/folders/13VxPs5N8JcGci3sGd9PM7XlirtgTBZ_C?usp=sharing)
+The training and predicting scripts require a sample dataset for 1 coupling type (1JHN), which can be found [here](https://drive.google.com/drive/folders/13VxPs5N8JcGci3sGd9PM7XlirtgTBZ_C?usp=sharing).
+
+
+Kha Vo, 30th August 2019.
