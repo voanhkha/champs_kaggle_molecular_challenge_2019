@@ -11,5 +11,6 @@ The main successful methods during the competition:
 2. SchNet for molecular data, which is an end-to-end graph architecture.
 The training and predicting scripts require a sample dataset for 1 coupling type (1JHN), which can be found [here](https://drive.google.com/drive/folders/13VxPs5N8JcGci3sGd9PM7XlirtgTBZ_C?usp=sharing).
 
+Dependencies notice: Use `PyTorch` 1.1.0 instead of 1.2.0. If an error occurs after beginning training, and if `PyTorch` 1.2.0 already installed, downgrade to 1.1.0 and then reinstall all torch dependencies (`torch-scatter`, `torch_geometric`, `torch_sparse`, `torch_cluster`). Also, install `schnetpack`, and `ase` version 3.17.0 (by `pip install -U ase==3.17.0`). For more information, see [Lightweight SchNet kernel](https://www.kaggle.com/petersk20/schnet-10th-place-solution).
 
 Kha Vo, 30th August 2019.
